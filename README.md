@@ -48,14 +48,14 @@ pip install pygame
 4. To run the Pygame project, execute the following command:
 
 ```bash
-python main.py
+python PythonApplication3.py
 ```
 This will start the game and you can interact with it using the keyboard and mouse.
 
 
 
 
-</hr>
+<hr>
 Feel free to explore and modify the project according to your requirements. If you encounter any issues or have suggestions for improvements, please open an issue on the GitHub repository.
 
 Happy coding!
