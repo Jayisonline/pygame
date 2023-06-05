@@ -4,14 +4,6 @@
 
 This is a Pygame project that showcases various game development features using the Pygame library.
 
-## Table of Contents
-- [Getting Started](#getting-started)
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## Getting Started
 
 To get started with this project, you will need to have Python and Pygame installed on your system. Follow the installation instructions mentioned below.
